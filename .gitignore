@@ -1,0 +1,14 @@
+.idea
+build
+dist
+streamlit
+数据源文件
+供检查的过程文件
+*.exe
+*.zip
+*.spec
+main/*.xlsx
+main/*.csv
+main/*.xls
+main/*.ini
+test.py
